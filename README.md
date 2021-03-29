@@ -1,1 +1,1 @@
-# gateway.deribit.com
+# dns18.ovh.net
